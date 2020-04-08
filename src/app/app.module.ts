@@ -17,6 +17,16 @@ import { StudentProfileComponent } from './Reports/student-information/Modules/s
 import { StudentHistoryComponent } from './Reports/student-information/Modules/student-history/student-history.component';
 import { AdmissionReportComponent } from './Reports/student-information/Modules/admission-report/admission-report.component';
 import { HomeworkEvaluationReportComponent } from './Reports/student-information/Modules/homework-evaluation-report/homework-evaluation-report.component';
+import { FinanceComponent } from './Reports/finance/finance.component';
+import { FeesStatementComponent } from './Reports/finance/Modules/fees-statement/fees-statement.component';
+import { BalanceFeesComponent } from './Reports/finance/Modules/balance-fees/balance-fees.component';
+import { FeesCollectionComponent } from './Reports/finance/Modules/fees-collection/fees-collection.component';
+import { OnlineFeesCollectionComponent } from './Reports/finance/Modules/online-fees-collection/online-fees-collection.component';
+import { IncomeReportComponent } from './Reports/finance/Modules/income-report/income-report.component';
+import { ExpenseReportComponent } from './Reports/finance/Modules/expense-report/expense-report.component';
+import { PayrollReportComponent } from './Reports/finance/Modules/payroll-report/payroll-report.component';
+import { IncomeGroupReportComponent } from './Reports/finance/Modules/income-group-report/income-group-report.component';
+import { ExpenseGroupReportComponent } from './Reports/finance/Modules/expense-group-report/expense-group-report.component';
 
 
 
@@ -37,6 +47,16 @@ import { HomeworkEvaluationReportComponent } from './Reports/student-information
     StudentHistoryComponent,
     AdmissionReportComponent,
     HomeworkEvaluationReportComponent,
+    FinanceComponent,
+    FeesStatementComponent,
+    BalanceFeesComponent,
+    FeesCollectionComponent,
+    OnlineFeesCollectionComponent,
+    IncomeReportComponent,
+    ExpenseReportComponent,
+    PayrollReportComponent,
+    IncomeGroupReportComponent,
+    ExpenseGroupReportComponent,
     
   ],
   imports: [
